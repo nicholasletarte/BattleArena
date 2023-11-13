@@ -1,12 +1,3 @@
-/******
- Name: Michael Swartz & Nicholas Letarte
- Assignment: Creative Lab
- Date: 10/31/2022
- ******/
-
-
-//Nick and Mikes super cool creative project
-//the villain class who will fight the hero class
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Random;

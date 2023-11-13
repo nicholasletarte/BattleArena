@@ -1,15 +1,3 @@
-
-
-/******
- Name: Michael Swartz & Nicholas Letarte
- Assignment: Creative Lab
- Date: 10/31/2022
- ******/
-
-
-//Mike and Nicks super cool creative project
-//Hero subclass used to fight villains
-
 import java.util.Arrays;
 import java.util.LinkedList;
 

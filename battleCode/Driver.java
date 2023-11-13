@@ -1,13 +1,3 @@
-/******
- Name: Michael Swartz & Nicholas Letarte
- Assignment: Creative Lab
- Date: 10/31/2022
- ******/
-
-
-//Mike and Nicks super cool creative project
-//This is the driver where the bloodshed in this simulation occurs
-
 import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.Set;

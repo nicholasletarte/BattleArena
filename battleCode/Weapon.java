@@ -1,16 +1,3 @@
-/******
- Name: Michael Swartz & Nicholas Letarte
- Assignment: Creative Lab
- Date: 10/31/2022
- ******/
-
-
-/**
- * Nick and Mikes super cool creative project
- * Making an abstract Weapon class
- */
-
-
 public abstract class Weapon {
     //abstract methods
     int durability;

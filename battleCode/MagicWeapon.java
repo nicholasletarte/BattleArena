@@ -1,15 +1,3 @@
-/******
- Name: Michael Swartz & Nicholas Letarte
- Assignment: Creative Lab
- Date: 10/31/2022
- ******/
-
-
-//Mike and Nicks super cool creative project
-// child of abstract weapons class
-//Magic type weapon class
-
-
 import java.util.Random;
 
 public class MagicWeapon extends Weapon {

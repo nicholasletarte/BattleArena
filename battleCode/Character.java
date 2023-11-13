@@ -1,14 +1,3 @@
-/******
- Name: Michael Swartz & Nicholas Letarte
- Assignment: Creative Lab
- Date: 10/31/2022
- ******/
-
-
-//Mike and Nicks super cool creative project
-//Character abstract class
-//will be used to create heros and villains for arena
-
 import java.util.Random;
 
 abstract public class Character {

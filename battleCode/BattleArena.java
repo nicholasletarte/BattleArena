@@ -1,15 +1,3 @@
-/******
- Name: Michael Swartz & Nicholas Letarte
- Assignment: Creative Lab
- Date: 10/31/2022
- ******/
-
-
-//Mike and Nicks super cool creative project
-//This is how we will pit the heroes and villains against one another
-//the functionality of this will be shown in the driver
-//We also have our EXTENSION in here. It allows for heroes and villains to get healed under certain circumstances
-
 import java.util.LinkedList;
 import java.util.Random;
 
